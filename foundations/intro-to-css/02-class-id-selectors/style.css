@@ -8,12 +8,11 @@
     font-size: 36px;
 }
 
-#cooler {
+.adjust-size {
     font-size: 24px;
 }
 
 #number-four {
     background-color: rgb(55, 194, 117);
-    font-size: 24px;
     font-weight: bold;
 }
