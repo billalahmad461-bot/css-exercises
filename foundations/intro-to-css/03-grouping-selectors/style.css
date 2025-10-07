@@ -1,14 +1,14 @@
-#first {
-    color: white;
-    background-color: black;
-}
-
-#second {
-    background-color: yellow;
-}
-
 .one,
 .two {
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.one {
+    background-color: hsl(145, 80%, 35%);
+    color: hwb(34 6% 57%);
+}
+
+.two {
+    background-color: #21a6b8;
 }
